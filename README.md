@@ -89,9 +89,6 @@ http://localhost:8501
 
 ![Add Task](screenshots/task-add.png.png)
 
-### Completed Task 
-
-![Completed Task].(screenshots/task-completed.png.png)
 
 ### Completed Task and added
 
