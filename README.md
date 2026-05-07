@@ -83,7 +83,7 @@ http://localhost:8501
 
 ### Home Screen
 
-![Home](screenshots/home.png)
+![Home](screenshots/home.png.png)
 
 ### Add Task
 
