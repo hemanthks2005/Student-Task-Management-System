@@ -34,26 +34,45 @@ The **Student Task Management System** is a simple web-based application develop
 
 ### 📘 Module 1: Introduction to Project Management
 
-* Defined project objectives, stakeholders, and lifecycle
+In this module, the basic concepts of project management were applied.
+
+*Defined project objectives and goals
+*Identified stakeholders (students, developer, faculty)
+*Followed project life cycle (planning → development → testing → deployment)
 
 ### 📘 Module 2: Risk Management & Planning
 
-* Identified possible risks and mitigation strategies
-* Planned project execution steps
+Planning and risk handling were implemented as follows:
+
+*Created a simple project plan with timeline
+*Identified risks such as time constraints and coding errors
+*Provided mitigation strategies like simplifying features and debugging
 
 ### 📘 Module 3: Requirements Gathering
 
-* Documented functional and non-functional requirements
+Requirements were clearly defined before development:
+
+*Functional Requirements: Add task, view tasks, mark as completed
+*Non-Functional Requirements: Simple UI, fast performance
+*Defined project scope and limitations
 
 ### 📘 Module 4: Testing & Maintenance
 
-* Created test cases
-* Performed manual testing
+Testing was performed to ensure the system works correctly:
+
+*Manual testing using test cases
+*Verified task addition and completion features
+*Maintenance includes fixing bugs and improving UI
 
 ### 📘 Module 5: Globalization & Internet Impact
 
-* Explained global usability
-* Role of internet in application deployment
+The role of internet and global usability was considered:
+
+*Application runs on a web interface using Streamlit
+*Can be accessed globally by users
+*Demonstrates the importance of internet in modern applications
+
+
 
 ---
 
