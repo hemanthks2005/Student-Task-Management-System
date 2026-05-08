@@ -30,48 +30,77 @@ The **Student Task Management System** is a simple web-based application develop
 
 ---
 
-## 📊 Project Management Concepts Implemented
+## 📊 Project Management Modules Implementation
 
-### 📘 Module 1: Introduction to Project Management
+### 📘 5.1 Module 1: Introduction to Project Management
 
-In this module, the basic concepts of project management were applied.
+* Defined project goals and objectives
+* Identified stakeholders (students, developer, faculty)
+* Followed project life cycle phases (Planning → Development → Testing → Deployment)
 
-*Defined project objectives and goals
-*Identified stakeholders (students, developer, faculty)
-*Followed project life cycle (planning → development → testing → deployment)
+---
 
-### 📘 Module 2: Risk Management & Planning
+### 📘 5.2 Module 2: Risk Management & Planning
 
-Planning and risk handling were implemented as follows:
+#### 🔹 Risk Identification
 
-*Created a simple project plan with timeline
-*Identified risks such as time constraints and coding errors
-*Provided mitigation strategies like simplifying features and debugging
+* Time constraints
+* Coding errors
+* Technical issues
 
-### 📘 Module 3: Requirements Gathering
+#### 🔹 Risk Mitigation
 
-Requirements were clearly defined before development:
+* Keep the project simple
+* Perform regular testing
+* Use simple tools like Streamlit
 
-*Functional Requirements: Add task, view tasks, mark as completed
-*Non-Functional Requirements: Simple UI, fast performance
-*Defined project scope and limitations
+#### 🔹 Planning
 
-### 📘 Module 4: Testing & Maintenance
+* Duration: 3–4 days
+* Resources: Laptop, Python, Internet
 
-Testing was performed to ensure the system works correctly:
+---
 
-*Manual testing using test cases
-*Verified task addition and completion features
-*Maintenance includes fixing bugs and improving UI
+### 📘 5.3 Module 3: Requirements Gathering
 
-### 📘 Module 5: Globalization & Internet Impact
+#### 🔹 Functional Requirements
 
-The role of internet and global usability was considered:
+* Add tasks
+* View tasks
+* Mark tasks as completed
 
-*Application runs on a web interface using Streamlit
-*Can be accessed globally by users
-*Demonstrates the importance of internet in modern applications
+#### 🔹 Non-Functional Requirements
 
+* Simple user interface
+* Fast performance
+
+---
+
+### 📘 5.4 Module 4: Testing & Maintenance
+
+#### 🔹 Testing
+
+Manual testing was performed using test cases:
+
+| Test Case     | Input      | Expected Output       |
+| ------------- | ---------- | --------------------- |
+| Add Task      | "Study"    | Task added            |
+| Complete Task | Click Done | Task marked completed |
+
+#### 🔹 Maintenance
+
+* Fix bugs
+* Improve UI if required
+
+---
+
+### 📘 5.5 Module 5: Globalization & Internet Impact
+
+* The system can be used globally by students
+* The application runs on a web interface
+* Internet enables easy deployment and access
+
+---
 
 
 ---
