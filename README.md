@@ -32,7 +32,7 @@ The **Student Task Management System** is a simple web-based application develop
 
 ## 📊 Project Management Modules Implementation
 
-### 📘 5.1 Module 1: Introduction to Project Management
+### 📘  Module 1: Introduction to Project Management
 
 * Defined project goals and objectives
 * Identified stakeholders (students, developer, faculty)
@@ -40,7 +40,7 @@ The **Student Task Management System** is a simple web-based application develop
 
 ---
 
-### 📘 5.2 Module 2: Risk Management & Planning
+### 📘  Module 2: Risk Management & Planning
 
 #### 🔹 Risk Identification
 
@@ -61,7 +61,7 @@ The **Student Task Management System** is a simple web-based application develop
 
 ---
 
-### 📘 5.3 Module 3: Requirements Gathering
+### 📘  Module 3: Requirements Gathering
 
 #### 🔹 Functional Requirements
 
@@ -76,7 +76,7 @@ The **Student Task Management System** is a simple web-based application develop
 
 ---
 
-### 📘 5.4 Module 4: Testing & Maintenance
+### 📘  Module 4: Testing & Maintenance
 
 #### 🔹 Testing
 
@@ -94,7 +94,7 @@ Manual testing was performed using test cases:
 
 ---
 
-### 📘 5.5 Module 5: Globalization & Internet Impact
+### 📘 Module 5: Globalization & Internet Impact
 
 * The system can be used globally by students
 * The application runs on a web interface
